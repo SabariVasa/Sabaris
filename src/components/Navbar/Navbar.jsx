@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import {
   // AiFillStar,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
+  // AiOutlineFundProjectionScreen,
   AiOutlineContacts
 } from "react-icons/ai";
 import { GiSkills } from "react-icons/gi"
