@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import LaptopImg from "../../assets/photo.jpg";
+import LaptopImg from "../../assets/photo.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -18,11 +18,11 @@ const About = () => {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, my name is <span className="yellow">Balasubramani A </span>
-              and I'm from <span className="yellow"> Ramanathapuram, TamilNadu.</span>
+              Hi, my name is <span className="yellow">Sabarivasan V</span>
+              and I'm from <span className="yellow"> Pudukkottai, TamilNadu.</span>
               <br />
               <br />
-              I recently graduated with a Bachelor's degree in Electrical And Electronics and Engineering in 2022.
+              I recently graduated with a Bachelor's degree in Computer Science Engineering in 2022.
               <br />
               <br />
               As a
@@ -31,7 +31,7 @@ const About = () => {
               <br />
               <br />I am proficient in
               <b className="yellow"> Javascript, </b>
-              as well as have knowledge in programming languages such as C, Python
+              as well as have knowledge in programming languages such as C, java, python, jdbc, Mysql
               <br />
               <br />
               I have a passion for working
@@ -72,7 +72,7 @@ const About = () => {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/balasubramaniaji01"
+                  href="https://github.com/SabariVasa"
                   style={{ color: "white" }}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -83,7 +83,7 @@ const About = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/balasubramani-a-7807b4243/"
+                  href="https://www.linkedin.com/in/sabari-vasan-95a626317/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
